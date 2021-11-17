@@ -9,7 +9,7 @@
     <script type="text/javascript">
         var total_pics_num = 2; // колличество изображений
         var interval = 10000;    // задержка между изображениями
-        var time_out = 3;       // задержка смены изображений
+        var time_out = 3;       // задержка смены изображений фоцрвофцрв
         var i = 0;
         var timeout;
         var opacity = 100;
