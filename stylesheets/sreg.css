@@ -1,0 +1,38 @@
+
+.form-row
+{margin-bottom: 5px;
+    overflow: hidden;
+    vertical-align: center;
+}
+
+.reg-form input
+{float:right;
+    height: 19px;
+    line-height:19px;
+    padding: 0px 5px;
+    width: 270px;
+    border:1px solid #ABADB3;
+    background-color:darkgrey ;
+    border-radius: 7px;
+
+}
+.form-row input
+{width:270px;
+
+}
+.reg-form
+{width:416px;
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    line-height: 1.4em;
+
+}
+legend{background-color : #efefef;
+    border : 1px dashed #dcdcdc ;
+    border-radius : 7px ;
+    text-align : left ;
+    text-transform : uppercase ;
+}
+h1{text-align: center;}
+*{font-family: Arial,Georgia,Serif;font-size: 10px;font-style: italic;}\\italic-курсив

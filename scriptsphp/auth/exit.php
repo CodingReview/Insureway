@@ -1,0 +1,2 @@
+<?php
+include_once("../../index.php");$loggedin=0;unset($_SESSION["login"]);unset($_SESSION["id"]);unset($_SESSION["name"]);echo '<meta http-equiv="refresh" content="0;URL=../../index.php">';session_destroy();
