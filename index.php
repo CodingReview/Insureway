@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="stylesheets/context.css">
     <script type="text/javascript">
         var total_pics_num = 2; // колличество изображений
-        var interval = 10000;    // задержка между и lox
+        var interval = 10000;    // задержка между изображениями
         var time_out = 3;       // задержка смены изображений
         var i = 0;
         var timeout;
